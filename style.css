@@ -1,4 +1,9 @@
-.content{
-    color: rgb(240, 145, 145);
+.content {
+    color: red;
+}
+
+.newClass {
+    
     background-color: green;
+
 }
